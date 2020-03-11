@@ -7,7 +7,7 @@
 */
 int max(int num1, int num2)
 {
-	return ((num1 > num2) ? num1: num2);
+	return ((num1 > num2) ? num1 : num2);
 }
 /**
 *height - get the max number
@@ -39,5 +39,4 @@ int node_height(binary_tree_t *node)
 int binary_tree_balance(const binary_tree_t *tree)
 {
 	return (node_height(tree->left) - node_height(tree->right));
-	
 }
