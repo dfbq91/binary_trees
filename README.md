@@ -1,5 +1,12 @@
 # Binary trees project
 ---
+![Binary-Trees](types-binary-trees.png)
+Image designed by: Anand K Parmar
+
+## What is this project about?
+A binary tree is a data structure in which each node can have a left child and a right child. Hence the name "binary". If a child (a node derived from another) has a reference to a null, it is considered an external node. Otherwise, it is considered an internal node.
+
+This repository contains different tasks to study and understand binary trees.
 
 ## Learning Objectives
 
@@ -167,5 +174,6 @@
 
 
 ## Authors
-* Daniel Rodríguez | [GitHub](https://github.com/danrocus1994)
-* Diego Betancourt | [GitHub](https://github.com/dfbq91)
+We are students of Holberton School, passionate for computer science.
+* Daniel Rodríguez | [GitHub](https://github.com/danrocus1994) | [LinkedIn](https://www.linkedin.com/in/daniel-rodriguez-castillo/)
+* Diego Betancourt | [GitHub](https://github.com/dfbq91) | [LinkedIn](https://www.linkedin.com/in/diegofernandobetancourtquintero/)
